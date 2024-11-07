@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="micolor">#0F7404</color>
+    <color name="green_200">#00FFB6</color>
+    <color name="green_700">#44BC3C</color>
+
+
+    <color name="bPrin_sinPresionar">#E42121</color>
+    <color name="bPrin_Presionado">#BC0505</color>
+    <color name="bordePrin_sinPresionar">#E42121</color>
+    <color name="bordePrin_Presionado">#BC0505</color>
+
+    <color name="bSecun_sinPresionar">#EF2580</color>
+    <color name="bSecun_Presionado">#9F1855</color>
+    <color name="bordeSecun_sinPresionar">#EF2580</color>
+    <color name="bordeSecun_Presionado">#9F1855</color>
+
+    <color name="bTer_sinPresionar">#F46E6E</color>
+    <color name="bTer_Presionado">#2A9D8F</color>
+    <color name="bordeTer_sinPresionar">#F4C76E</color>
+    <color name="bordeTer_Presionado">#F4C76E</color>
+</resources>
